@@ -1,0 +1,8 @@
+datanode-br,/zona/br
+client-br,/zona/br
+
+datanode-cl,/zona/cl
+client-cl,/zona/cl
+
+datanode-co,/zona/co
+client-co,/zona/co
